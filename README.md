@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nurana</h1>
+<h1 align="center">Hi 👋, I'm Nurana Ismayilzada </h1>
 <h3 align="center">A passionate frontend and backend developer from Azerbaijan.</h3>
 <img width="400" align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" alt="">
 
